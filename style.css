@@ -1,0 +1,8 @@
+.btn {
+  background-color: blueviolet;
+  overflow: hidden;
+  border-radius: 20px;
+  border: 1px;
+  margin: 2px;
+  color: wheat;
+}
